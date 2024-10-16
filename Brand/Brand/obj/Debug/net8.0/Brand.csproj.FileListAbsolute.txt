@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Desktop\codde.homeworks\Brand\Brand\bin\Debug\net8.0\Brand.exe
+C:\Users\User\OneDrive\Desktop\codde.homeworks\Brand\Brand\bin\Debug\net8.0\Brand.deps.json
+C:\Users\User\OneDrive\Desktop\codde.homeworks\Brand\Brand\bin\Debug\net8.0\Brand.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\codde.homeworks\Brand\Brand\bin\Debug\net8.0\Brand.dll
+C:\Users\User\OneDrive\Desktop\codde.homeworks\Brand\Brand\bin\Debug\net8.0\Brand.pdb
+C:\Users\User\OneDrive\Desktop\codde.homeworks\Brand\Brand\obj\Debug\net8.0\Brand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\codde.homeworks\Brand\Brand\obj\Debug\net8.0\Brand.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\codde.homeworks\Brand\Brand\obj\Debug\net8.0\Brand.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\codde.homeworks\Brand\Brand\obj\Debug\net8.0\Brand.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\codde.homeworks\Brand\Brand\obj\Debug\net8.0\Brand.dll
+C:\Users\User\OneDrive\Desktop\codde.homeworks\Brand\Brand\obj\Debug\net8.0\refint\Brand.dll
+C:\Users\User\OneDrive\Desktop\codde.homeworks\Brand\Brand\obj\Debug\net8.0\Brand.pdb
+C:\Users\User\OneDrive\Desktop\codde.homeworks\Brand\Brand\obj\Debug\net8.0\Brand.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\codde.homeworks\Brand\Brand\obj\Debug\net8.0\ref\Brand.dll

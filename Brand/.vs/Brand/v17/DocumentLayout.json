@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\codde.homeworks\\Brand\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51C2B40C-C8A0-4E7E-AFF0-064B23FA6A7F}|Brand\\Brand.csproj|c:\\users\\user\\onedrive\\desktop\\codde.homeworks\\brand\\brand\\notebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C2B40C-C8A0-4E7E-AFF0-064B23FA6A7F}|Brand\\Brand.csproj|solutionrelative:brand\\notebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C2B40C-C8A0-4E7E-AFF0-064B23FA6A7F}|Brand\\Brand.csproj|c:\\users\\user\\onedrive\\desktop\\codde.homeworks\\brand\\brand\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C2B40C-C8A0-4E7E-AFF0-064B23FA6A7F}|Brand\\Brand.csproj|solutionrelative:brand\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C2B40C-C8A0-4E7E-AFF0-064B23FA6A7F}|Brand\\Brand.csproj|c:\\users\\user\\onedrive\\desktop\\codde.homeworks\\brand\\brand\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C2B40C-C8A0-4E7E-AFF0-064B23FA6A7F}|Brand\\Brand.csproj|solutionrelative:brand\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C2B40C-C8A0-4E7E-AFF0-064B23FA6A7F}|Brand\\Brand.csproj|c:\\users\\user\\onedrive\\desktop\\codde.homeworks\\brand\\brand\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C2B40C-C8A0-4E7E-AFF0-064B23FA6A7F}|Brand\\Brand.csproj|solutionrelative:brand\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Notebook.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\codde.homeworks\\Brand\\Brand\\Notebook.cs",
+              "RelativeDocumentMoniker": "Brand\\Notebook.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\codde.homeworks\\Brand\\Brand\\Notebook.cs",
+              "RelativeToolTip": "Brand\\Notebook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:49:04.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Phone.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\codde.homeworks\\Brand\\Brand\\Phone.cs",
+              "RelativeDocumentMoniker": "Brand\\Phone.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\codde.homeworks\\Brand\\Brand\\Phone.cs",
+              "RelativeToolTip": "Brand\\Phone.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:35:45.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\codde.homeworks\\Brand\\Brand\\Product.cs",
+              "RelativeDocumentMoniker": "Brand\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\codde.homeworks\\Brand\\Brand\\Product.cs",
+              "RelativeToolTip": "Brand\\Product.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:28:28.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\codde.homeworks\\Brand\\Brand\\Program.cs",
+              "RelativeDocumentMoniker": "Brand\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\codde.homeworks\\Brand\\Brand\\Program.cs",
+              "RelativeToolTip": "Brand\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:25:13.448Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
